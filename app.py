@@ -110,7 +110,7 @@ def show_predict_page():
                 a = Image.open('aditya.png')
                 st.image( a, width=150)
             with col2:
-                st.write(f"""#####  Sorry, [ {i}](https://www.linkedin.com/in/isha-kataria-2309/?originalSubdomain=in) is not a skill but He is the member of this project. who did this project in very well manner............☺️""")
+                st.write(f"""#####  Sorry, [ {i}](https://www.linkedin.com/in/adityamalav/) is not a skill but He is the member of this project. who did this project in very well manner............☺️""")
                 break
 
         if i in ['GREESHMA','GREESHMA TOM']:
