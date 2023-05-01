@@ -7,8 +7,7 @@ import  pandas as pd
 with open('final.pkl', 'rb') as file:
     data = pickle.load(file)
 
-st.set_page_config(layout="centered")
-st.set_page_config(page_title="Aditya Linkedin Analysis", page_icon="📉", layout="wide")
+st.set_page_config(page_title="Aditya Linkedin Analysis", page_icon="📉", layout="centered")
 
 
 
